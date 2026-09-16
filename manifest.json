@@ -29,8 +29,9 @@
         "5c7fe030"
       ],
       "Servers": [],
-      "RadminNetwork": "Testing Seals",
-      "RadminPassword": "seal 12345678910"
+      "RadminEnabled": true,
+      "RadminNetwork": "~GSYgDQcNSlIyAQwFHQ==",
+      "RadminPassword": "~PiYyFU5SH0FVUVteVhRHAQ=="
     }
   ],
   "Tools": [
@@ -41,9 +42,20 @@
       "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/tools/Radmin_VPN_1.3.4568.3.exe",
       "IconUrl": "",
       "SilentArgs": "",
-      "Hint": ""
+      "Hint": "",
+      "Kind": "program"
+    },
+    {
+      "Id": "b59c8324",
+      "Name": "Legacy Launcher",
+      "MatchSubstring": "Legacy Launcher",
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/tools/LegacyLauncher.exe",
+      "IconUrl": "",
+      "SilentArgs": "",
+      "Hint": "",
+      "Kind": "program"
     }
   ],
   "Backups": [],
-  "UpdatedAtUtc": "2026-09-16T11:11:37.3525723Z"
+  "UpdatedAtUtc": "2026-09-16T22:16:52.7934090Z"
 }
