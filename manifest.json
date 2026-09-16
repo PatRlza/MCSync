@@ -1,1 +1,17 @@
-   { "SchemaVersion": 2, "Packages": [], "Tools": [], "Backups": [] }
+{
+  "SchemaVersion": 2,
+  "Packages": [],
+  "Tools": [
+    {
+      "Id": "5c7fe030",
+      "Name": "Radmin VPN",
+      "MatchSubstring": "Radmin VPN",
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/tools/Radmin_VPN_1.3.4568.3.exe",
+      "IconUrl": "",
+      "SilentArgs": "",
+      "Hint": ""
+    }
+  ],
+  "Backups": [],
+  "UpdatedAtUtc": "2026-09-16T11:09:56.8735788Z"
+}
