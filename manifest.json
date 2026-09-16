@@ -1,6 +1,38 @@
 {
   "SchemaVersion": 2,
-  "Packages": [],
+  "Packages": [
+    {
+      "Id": "5e49b00980",
+      "Name": "\u0422\u0435\u0441\u0442 \u0441\u0431\u043E\u0440\u043A\u0438 \u0442\u043E\u043A\u0435\u043D\u0430 \u043D\u043E\u0440\u043C",
+      "Author": "TioMeow",
+      "Description": "\u0447\u0438\u0442\u0430\u0442\u044C \u0438 \u043F\u0438\u0441\u0430\u0442\u044C \u0442\u043E\u043A\u0435\u043D \u043D\u0435\u0440\u043F\u0430 \u043D\u0435\u0440\u043F\u0430 \u043D\u0435\u0440\u043F\u0430",
+      "MinecraftVersion": "1.20.1",
+      "Loader": "forge",
+      "LoaderVersion": "",
+      "VersionFolderName": "Forge 1.20.1",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/5e49b00980-1.0.zip",
+      "SizeBytes": 670734049,
+      "PublishedAtUtc": "2026-09-16T11:11:37.3517681Z",
+      "ImageUrls": [
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/Fat-seal-stones-sea_3840x2160.1.jpg",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/b73d29a9f3af2a27073ce6bffcbba377.png"
+      ],
+      "ModCount": 94,
+      "ConfigCount": 83,
+      "ResourcePackCount": 4,
+      "ShaderCount": 4,
+      "IncludesWorld": true,
+      "WorldName": "\u041D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440 (1)",
+      "WorldSizeBytes": 57183823,
+      "RequiredToolIds": [
+        "5c7fe030"
+      ],
+      "Servers": [],
+      "RadminNetwork": "Testing Seals",
+      "RadminPassword": "seal 12345678910"
+    }
+  ],
   "Tools": [
     {
       "Id": "5c7fe030",
@@ -13,5 +45,5 @@
     }
   ],
   "Backups": [],
-  "UpdatedAtUtc": "2026-09-16T11:09:56.8735788Z"
+  "UpdatedAtUtc": "2026-09-16T11:11:37.3525723Z"
 }
