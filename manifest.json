@@ -2,6 +2,40 @@
   "SchemaVersion": 2,
   "Packages": [
     {
+      "Id": "a0141264f5",
+      "Name": "\u0412\u043E\u0437\u0434\u0443\u0448\u043D\u043E\u0435 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0414\u0415\u041C\u041E",
+      "Author": "TioMeow",
+      "Description": "All of Aeruonautics DEMO",
+      "MinecraftVersion": "1.21.1",
+      "Loader": "neoforge",
+      "LoaderVersion": "",
+      "VersionFolderName": "NeoForge 1.21.1",
+      "Version": "1.0.5",
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/pack-a0141264f5/a0141264f5-1.0.5.zip",
+      "SizeBytes": 1194842021,
+      "PublishedAtUtc": "2026-09-16T22:25:17.8617192Z",
+      "ImageUrls": [
+        "https://github.com/PatRlza/MCSync/releases/download/pack-a0141264f5/2026-09-04_13.41.17.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-a0141264f5/2026-09-04_14.30.15.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-a0141264f5/2026-09-04_02.51.08.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-a0141264f5/2026-09-12_13.12.40.png"
+      ],
+      "ModCount": 233,
+      "ConfigCount": 257,
+      "ResourcePackCount": 6,
+      "ShaderCount": 7,
+      "IncludesWorld": false,
+      "WorldName": "",
+      "WorldSizeBytes": 0,
+      "RequiredToolIds": [
+        "b59c8324"
+      ],
+      "Servers": [],
+      "RadminEnabled": true,
+      "RadminNetwork": "~DC8/WQEFDTENDQgHGg==",
+      "RadminPassword": "~DC8/WQEFDTMEFhgGAEwDRSQgIA=="
+    },
+    {
       "Id": "5e49b00980",
       "Name": "\u0422\u0435\u0441\u0442 \u0441\u0431\u043E\u0440\u043A\u0438 \u0442\u043E\u043A\u0435\u043D\u0430 \u043D\u043E\u0440\u043C",
       "Author": "TioMeow",
@@ -57,5 +91,5 @@
     }
   ],
   "Backups": [],
-  "UpdatedAtUtc": "2026-09-16T22:16:52.7934090Z"
+  "UpdatedAtUtc": "2026-09-16T22:25:17.8665480Z"
 }
