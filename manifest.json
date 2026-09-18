@@ -91,5 +91,11 @@
     }
   ],
   "Backups": [],
-  "UpdatedAtUtc": "2026-09-16T22:25:17.8665480Z"
+  "AppUpdate": {
+    "Version": "2.1.0",
+    "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.1.0/MCSync.exe",
+    "PublishedAtUtc": "2026-09-18T11:56:53.8345596Z",
+    "Notes": ""
+  },
+  "UpdatedAtUtc": "2026-09-18T11:56:53.8416650Z"
 }
