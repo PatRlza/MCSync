@@ -92,10 +92,10 @@
   ],
   "Backups": [],
   "AppUpdate": {
-    "Version": "2.1.0",
-    "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.1.0/MCSync.exe",
-    "PublishedAtUtc": "2026-09-18T11:56:53.8345596Z",
+    "Version": "2.0.0",
+    "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.0.0/MCSync.exe",
+    "PublishedAtUtc": "2026-09-18T13:21:46.8138558Z",
     "Notes": ""
   },
-  "UpdatedAtUtc": "2026-09-18T11:56:53.8416650Z"
+  "UpdatedAtUtc": "2026-09-18T13:21:46.8210475Z"
 }
