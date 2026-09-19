@@ -88,6 +88,16 @@
       "SilentArgs": "",
       "Hint": "",
       "Kind": "program"
+    },
+    {
+      "Id": "293a54bc",
+      "Name": "Java 26",
+      "MatchSubstring": "Java 26",
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/java/293a54bc.zip",
+      "IconUrl": "",
+      "SilentArgs": "",
+      "Hint": "",
+      "Kind": "java"
     }
   ],
   "Backups": [],
@@ -97,5 +107,5 @@
     "PublishedAtUtc": "2026-09-19T07:21:51.2479780Z",
     "Notes": ""
   },
-  "UpdatedAtUtc": "2026-09-19T07:21:51.2591981Z"
+  "UpdatedAtUtc": "2026-09-19T07:49:11.8584911Z"
 }
