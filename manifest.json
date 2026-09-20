@@ -148,12 +148,23 @@
       "Kind": "java"
     }
   ],
-  "Backups": [],
+  "Backups": [
+    {
+      "Id": "8e0a985e94",
+      "PackageId": "25055709d7",
+      "WorldName": "Cat _ 2",
+      "HostName": "artem",
+      "CreatedUtc": "2026-09-20T10:27:43.9786157Z",
+      "SizeBytes": 74013727,
+      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/backups/Cat._.2_20260920_152740.zip",
+      "Kind": "auto"
+    }
+  ],
   "AppUpdate": {
     "Version": "2.0.1",
     "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.0.1/MCSync-Setup.exe",
     "PublishedAtUtc": "2026-09-19T07:21:51.2479780Z",
     "Notes": ""
   },
-  "UpdatedAtUtc": "2026-09-20T09:56:35.8116979Z"
+  "UpdatedAtUtc": "2026-09-20T10:28:13.5018833Z"
 }
