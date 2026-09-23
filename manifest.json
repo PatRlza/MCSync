@@ -2,6 +2,50 @@
   "SchemaVersion": 2,
   "Packages": [
     {
+      "Id": "5e49b00980",
+      "Name": "\u0422\u044E\u043B\u0435\u043D\u044C\u0447\u0438\u043A\u0438 2025 \u0433\u043E\u0434\u0430",
+      "Author": "TioMeow",
+      "Description": "\u0420\u0430\u0437 \u0432\u044B \u0432\u0441\u0435 \u0442\u0430\u043A \u043F\u0440\u043E\u0441\u0438\u043B\u0438 \u0441\u043A\u0438\u043D\u0443\u0442\u044C \u043C\u0438\u0440, \u0432\u043E\u0442, \u043F\u0440\u0430\u0432\u0434\u0430 \u0445\u0437 \u0437\u0430\u0447\u0435\u043C \u043E\u043D \u0432\u0430\u043C \u0438 \u0442\u0434 \u0441 \u0437\u0438\u043C\u043D\u0435\u0433\u043E \u0441\u0435\u043C\u0435\u0441\u0442\u0440\u0430 2\u0433\u043E \u043A\u0443\u0440\u0441\u0430 (2025-2026)",
+      "MinecraftVersion": "1.20.1",
+      "Loader": "forge",
+      "LoaderVersion": "",
+      "VersionFolderName": "Forge 1.20.1",
+      "Version": "2.0",
+      "DownloadUrl": "MCSYNC-MULTIPART:{\u0022TotalBytes\u0022:2521386189,\u0022Parts\u0022:[\u0022https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/5e49b00980-2.0.zip.part001\u0022,\u0022https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/5e49b00980-2.0.zip.part002\u0022]}",
+      "SizeBytes": 2521386189,
+      "PublishedAtUtc": "2026-09-23T08:34:18.6516298Z",
+      "ImageUrls": [
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/1.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-01-31_22.27.54.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-02-13_14.44.10.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-02-19_23.33.58.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-17_18.01.27.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-17_22.03.26.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.46.20.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.47.25.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.47.53.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.48.19.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.48.42.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.49.19.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.50.16.png",
+        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/2026-03-23_21.52.41.png"
+      ],
+      "ModCount": 94,
+      "ConfigCount": 83,
+      "ResourcePackCount": 2,
+      "ShaderCount": 2,
+      "IncludesWorld": true,
+      "WorldName": "world",
+      "WorldSizeBytes": 2265218269,
+      "RequiredToolIds": [
+        "b59c8324"
+      ],
+      "Servers": [],
+      "RadminEnabled": false,
+      "RadminNetwork": "",
+      "RadminPassword": ""
+    },
+    {
       "Id": "25055709d7",
       "Name": "\u041B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043A\u0430 \u043D\u0430 \u0410\u0442\u0435\u0440\u043D\u043E\u0441\u0430 \u041F\u0438\u0446\u0446\u0430 822 \u0438 Cat_2",
       "Author": "Artem",
@@ -42,39 +86,6 @@
       "WorldSizeBytes": 605472784,
       "RequiredToolIds": [
         "b59c8324"
-      ],
-      "Servers": [],
-      "RadminEnabled": false,
-      "RadminNetwork": "",
-      "RadminPassword": ""
-    },
-    {
-      "Id": "5e49b00980",
-      "Name": "\u0422\u0435\u0441\u0442 \u0441\u0431\u043E\u0440\u043A\u0438 \u0442\u043E\u043A\u0435\u043D\u0430 \u043D\u043E\u0440\u043C",
-      "Author": "TioMeow",
-      "Description": "\u0447\u0438\u0442\u0430\u0442\u044C \u0438 \u043F\u0438\u0441\u0430\u0442\u044C \u0442\u043E\u043A\u0435\u043D \u043D\u0435\u0440\u043F\u0430 \u043D\u0435\u0440\u043F\u0430 \u043D\u0435\u0440\u043F\u0430",
-      "MinecraftVersion": "1.20.1",
-      "Loader": "forge",
-      "LoaderVersion": "",
-      "VersionFolderName": "Forge 1.20.1",
-      "Version": "1.1",
-      "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/5e49b00980-1.1.zip",
-      "SizeBytes": 1527161208,
-      "PublishedAtUtc": "2026-09-19T07:51:11.4460853Z",
-      "ImageUrls": [
-        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/Fat-seal-stones-sea_3840x2160.1.jpg",
-        "https://github.com/PatRlza/MCSync/releases/download/pack-5e49b00980/b73d29a9f3af2a27073ce6bffcbba377.png"
-      ],
-      "ModCount": 94,
-      "ConfigCount": 83,
-      "ResourcePackCount": 0,
-      "ShaderCount": 0,
-      "IncludesWorld": true,
-      "WorldName": "life Seals  one",
-      "WorldSizeBytes": 1066188571,
-      "RequiredToolIds": [
-        "b59c8324",
-        "293a54bc"
       ],
       "Servers": [],
       "RadminEnabled": false,
@@ -132,5 +143,5 @@
     "PublishedAtUtc": "2026-09-20T12:33:47.7216198Z",
     "Notes": ""
   },
-  "UpdatedAtUtc": "2026-09-20T12:33:47.7286888Z"
+  "UpdatedAtUtc": "2026-09-23T08:34:18.6603040Z"
 }
