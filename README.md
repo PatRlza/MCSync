@@ -86,7 +86,7 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
    ```
 3. Сделать fine-grained токен: Settings → Developer settings → Personal access tokens → Fine-grained,
    доступ только к этому репозиторию, права **Contents: Read and write** и **Metadata: Read**.
-4. Запустить MCSync → переключатель «Админ» → код **5913** → раздел «Подключение к GitHub»:
+4. Запустить MCSync → переключатель «Админ» → код **---3** → раздел «Подключение к GitHub»:
    владелец, репозиторий, токен → «Проверить доступ» (должно быть «Доступ есть ✓»).
 5. Игрокам в их программе достаточно вписать владельца и репозиторий в «Настройки» — **токен им не нужен**.
 
