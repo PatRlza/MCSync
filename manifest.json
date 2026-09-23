@@ -135,10 +135,10 @@
     }
   ],
   "AppUpdate": {
-    "Version": "2.1.1",
-    "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.1.1/MCSync-Setup-2.1.1.exe",
-    "PublishedAtUtc": "2026-09-20T12:33:47.7216198Z",
+    "Version": "2.3.0",
+    "DownloadUrl": "https://github.com/PatRlza/MCSync/releases/download/app-2.3.0/MCSync-Setup-2.3.0.exe",
+    "PublishedAtUtc": "2026-09-23T08:58:50.0550661Z",
     "Notes": ""
   },
-  "UpdatedAtUtc": "2026-09-23T08:55:32.7361635Z"
+  "UpdatedAtUtc": "2026-09-23T08:58:50.0551119Z"
 }
